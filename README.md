@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dustin Gonzales</h1>
 <h3 align="center">A passionate web developer and fitness enthusiast.</h3>
 
-- 👨‍💻 All of my projects are available at [https://dustingonzales.com](https://dustingonzales.com)
+- 👨‍💻 More info available at [https://dustingonzales.com](https://dustingonzales.com)
 
 - 📫 How to reach me **dustingonzales2009@gmail.com**
 
